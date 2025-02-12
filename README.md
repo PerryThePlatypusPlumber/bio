@@ -1,13 +1,12 @@
-# Economics undergraduate
+# Economics undergraduate Year 3
 
 ### Education
-B.Soc.Sci Economics 2026
+B.Soc.Sci Economics Minor in Math & Business Analytic (most likely)
 
-Minor in Math & Business Analytic (most likely)
+CGPA: 3.19
 
-Courses with decent grades: Adv Micro, Machine learning Project(s) and Most of the math courses
-
-Courses I fked up: Adv Macro, Mathematical Econ
+- Courses with decent grades (A range): Adv Micro, Machine learning Project(s) and Most of the math courses
+- Courses I fked up: Adv Macro, Mathematical Econ
 
 ### Research
 Applied mechanism design 
