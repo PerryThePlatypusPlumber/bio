@@ -6,6 +6,7 @@ B.Soc.Sci Economics 2026
 Minor in Math & Business Analytic (most likely)
 
 Courses with decent grades: Adv Micro, Machine learning Project(s) and Most of the math courses
+
 Courses I fked up: Adv Macro, Mathematical Econ
 
 ### Research
