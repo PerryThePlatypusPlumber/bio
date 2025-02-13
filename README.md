@@ -1,16 +1,17 @@
 # Economics undergraduate Year 3
 
 ### Education
-B.Soc.Sci Economics Minor in Math & Business Analytic (most likely)
+B.Soc.Sci Economics Minor in Math & Business Analytic (most likely) 
 
-CGPA: 3.19
+CGPA: 3.24 *We dont have grade inflation ...
 
-- Courses with decent grades (A range): Adv Micro, Machine learning Project(s) and Most of the math courses
+
+- Courses with really good grades: Adv Micro, Machine learning Project and Most of the math courses
 - Courses I fked up: Adv Macro, Mathematical Econ
 
-### Research
+### Research Interest
 Applied mechanism design 
-Field experiment in education and labor market
+Field experiment in education and labor
 
 ### Volunteer Services
 - Previous Supervision: Carson Lam (CUHK PACC), Camille  Wang (NUS Econ), Tsz Yuet Yeung (Cityu Data Science), Coe Woo (CUHK, SOWK), Emily Yuen (HKUspace then HKU BA)
