@@ -5,6 +5,11 @@ B.Soc.Sci Economics Minor in Math & Business Analytic (most likely)
 
 CGPA: 3.24 *At least we dont have grade inflation ...
 
+### Miscellaneous
+Technical skills: Python, Stata, LaTeX (proficient); R, SAS, Z-tree (working knowledge)
+
+Languages: Chinese, Cantonese (native), English (full proficiency, usually for f-bombs)
+
 
 - Courses with really good grades: Adv Micro, Machine learning Project and Most of the math courses
 - Courses I fked up: Adv Macro, Mathematical Econ
@@ -12,8 +17,8 @@ CGPA: 3.24 *At least we dont have grade inflation ...
 ### Research Interest
 I have a strong interest in labor economics previously, espically in NBA. I had wrote serval simple work on that, some are for course work and some are thesis project.
 
-1. [‘The Bargain with the Demands: A Review of recent Afghanistan–China Trading Relation,’] () (policy paper for China econ course)
-2. ‘Analyzing productivity Spillovers and ball-Assist Network using deep learning,’ (more likely a trail run, the dynamic matrix is really good to my opinion ... code avaliable upon request!)
+1. [‘The Bargain with the Demands: A Review of recent Afghanistan–China Trading Relation,’](policy paper for China econ course)
+2. [‘Analyzing productivity Spillovers and ball-Assist Network using deep learning,’](MachineLearning_NBA.pdf) (more likely a trail run, the dynamic matrix is really good to my opinion ... code avaliable upon request!)
 3. ‘May the best team win?’ Team Bias by NBA referees' (Sophomore year paper, the regression is pretty awful)
 
 My current research interest relies on mechanism design. I am now orgainzing field experiment in education.
@@ -26,7 +31,4 @@ Economics: https://drive.google.com/drive/folders/1r_3nY6HqYIPW7h3LfFfErPkRL1uiw
 
 Mathematics: To be Announce
 
-### Miscellaneous
-Technical skills: Python, Stata, LaTeX (proficient); R, SAS, Z-tree (working knowledge)
 
-Languages: Chinese, Cantonese (native), English (full proficiency, usually for f-bombs)
