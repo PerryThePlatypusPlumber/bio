@@ -18,7 +18,7 @@ Languages: Chinese, Cantonese (native), English (full proficiency, usually for f
 I have a strong interest in labor economics previously, espically in NBA. I had wrote serval simple work on that, some are for course work and some are thesis project.
 
 1. [‘The Bargain with the Demands: A Review of recent Afghanistan–China Trading Relation,’](policy paper for China econ course)
-2. [‘Analyzing productivity Spillovers and ball-Assist Network using deep learning,’](MachineLearning_NBA.pdf) (more likely a trail run, the dynamic matrix is really good to my opinion ... code avaliable upon request!)
+2. [‘Analyzing productivity Spillovers and ball-Assist Network using deep learning,’](https://github.com/PerryThePlatypusPlumber/bio/blob/main/MachineLeaning_NBA.pdf) (more likely a trail run, the dynamic matrix is really good to my opinion ... code avaliable upon request!)
 3. ‘May the best team win?’ Team Bias by NBA referees' (Sophomore year paper, the regression is pretty awful)
 
 My current research interest relies on mechanism design. I am now orgainzing field experiment in education.
