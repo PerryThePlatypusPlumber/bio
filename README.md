@@ -3,7 +3,7 @@
 ### Education
 B.Soc.Sci Economics Minor in Math & Business Analytic (most likely) 
 
-CGPA: 3.24 *At least we dont have grade inflation ...
+CGPA: 3.14/4 *At least we dont have grade inflation ...
 
 ### Miscellaneous
 Technical skills: Python, Stata, LaTeX (proficient); R, SAS, Z-tree (working knowledge)
