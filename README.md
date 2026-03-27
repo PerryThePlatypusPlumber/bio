@@ -1,27 +1,27 @@
-# Economics undergraduate Year 3
+# Economics undergraduate Year 4
 
 ### Education
-B.Soc.Sci Economics Minor in Math & Business Analytic (most likely) 
+B.Soc.Sci Economics 
 
-CGPA: 3.14/4 *At least we dont have grade inflation ...
+CGPA: 3.09/4 *At least we dont have grade inflation ...
 
 ### Miscellaneous
 Technical skills: Python, Stata, LaTeX (proficient); R, SAS, Z-tree (working knowledge)
 
-Languages: Chinese, Cantonese (native), English (full proficiency, more often for f-bombs)
+Languages: Chinese, Cantonese (native), English (full proficiency)
 
 
-- Courses with really good grades: Adv Micro, Machine learning Project and Most of the math courses
-- Courses I fked up: Adv Macro, Mathematical Econ
+- Courses with really good grades: UG Adv Micro, Public Econ (UG & PHD level)
+- Courses I pretty fked up: PHD Micro & UG Adv Macro and most of the > 3XXX math courses (at least I survived)
 
 
 ### Research Interest
 
-My current research interest relies on mechanism design. I am now orgainzing field experiment in education.
+My current work focuses on education policy, especially the application of behavioral economics to education and child development. Besides doing research, I teach high-school & do business consultation. 
 
-**‘’Self-motivated Learning**
+**‘’Why and What happened after school de/inflates the scores?** with Rachel Wang (HKU)
 
-<ins>*Although prevailing research suggest SEN are generally under-preforming in schools (compared with normal students), I argue such academic gaps is mainly contributed by the non-schooling hours. For example, children’s self-motivation on revision and their efforts in doing assignments or reading books under an unsupervised environment. Before the formal experiment, our trail experiment suggested that increasing in supervised schooling hours (through private education), would also increase the devoted hour in self-motivated learning. I believe that our experiment would generate similar results. The second part of the paper focuses on self-motivated learning. I examine two indicators, frequency of unsupervised learning activities as cognitive ‘self-control’, and quality of work over specific period of time for ‘cognitive endurance’ as the ability to sustain performance over time during an activity that requires effortful thinking, to measure assignment quality. Two indicators are important for measuring the input devote and marginal output (the academic results) and explain how SEN are in disadvantage from a much quantitative perspective.*</ins>
+<ins>* This paper *</ins>
 
 **‘’Optimal Schooling Hours, Quality Sleeping and Diminishing Marginal Return**
 
