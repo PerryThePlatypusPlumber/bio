@@ -6,10 +6,9 @@ B.Soc.Sci Economics
 CGPA: 2.98/4 *(At least we dont have grade inflation ...)
 
 ### Miscellaneous
-Technical skills: Python, Stata, LaTeX (proficient); R, Z-tree (working knowledge)
-Languages: Cantonese (native); English, Mandarin (full proficiency); Arabic MSA (mediocre)
-Field Interest: Labor Economics, Applied Microeconomics 
-
+- Technical skills: Python, Stata, LaTeX (proficient); R, Z-tree (working knowledge)
+- Languages: Cantonese (native); English, Mandarin (full proficiency); Arabic MSA (mediocre)
+- Field Interest: Labor Economics, Applied Microeconomics
 - Courses with really good grades: UG Adv Micro, Public Econ (UG & PHD level)
 - Courses I pretty fked up: PHD Micro & UG Adv Macro and most of the > 3XXX math courses (at least I survived)
 
