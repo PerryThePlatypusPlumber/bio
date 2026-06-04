@@ -19,13 +19,13 @@ Field Interest: Labor Economics, Applied Microeconomics
 My current work focuses on education policy, especially the application of behavioral economics to education and child development. Besides doing research, I teach high-school & do business consultation. 
 
 **Does technology adoption explains the performance gap of high/low-income high-achieving students? Evi-
-dence from HKDSE** with Rach Wang (HKU)
+dence from HKDSE**
 
-* Abstract: Most schools allow programming calculators in mathematics exams, but using them imposes learning and computation costs. I find that permitting calculators widens the performance gap between high- and low-income high achievers. Regarding to the high-achieving-student group, high-income students’ calculator programs have longer digit strings, more functions, and have better understanding of default features. Consistent with this mechanism, our prior study shows that private tutoring mainly improves multiple-choice performance rather than step-written (long-answer) questions. This income-related gap narrows when low-income students also receive private tutoring. Finally, I show that private tutoring has not produced significant causal effects on knowledge-level performance for advanced questions; instead, it raises achievement by reducing uncertainty from false calculations and saving time on easy and mid-level computations. *
-* 
-**‘’Optimal Schooling Hours, Quality Sleeping and Diminishing Marginal Return**
+* Abstract: Most schools allow programming calculators in mathematics exams, but using them imposes learning and computation costs. I find that permitting calculators widens the performance gap between high- and low-income high achievers. Regarding to the high-achieving-student group, high-income students’ calculator programs have longer digit strings, more functions, and have better understanding of default features. Consistent with this mechanism, my prior study shows that private tutoring mainly improves multiple-choice performance rather than step-written (long-answer) questions. This income-related gap narrows when low-income students also receive private tutoring. Finally, I show that private tutoring has not produced significant causal effects on knowledge-level performance for advanced questions; instead, it raises achievement by reducing uncertainty from false calculations and saving time on easy and mid-level computations. *
 
-<ins>*I compare three different arrangements of schooling period {(06:00 – 22: 00), (08:00 – 22:00), (06:00 – 20:00)} and to see the impact to children using field experiment in Jinggangshan, China. Details In draft.*</ins>
+**What graded in school grades in school: Insights from Hong Kong** (With Rach Wong)
+
+*Abstract: We find evidence that schools in Hong Kong exhibit score in/deflation in English Writing exam results. Given that the information cost of revealing true performance is high, high-achieving schools may under-estimate students’ per- formance, while under- performing schools may over-estimate it. To reduce the teacher- grading-bias drives these patterns, we mitigate it by remarking students’ scripts and providing revised signaling to indicate their actual performance. We implement this using an online class- room structure with weekly assignments. Both “Revised signaling” and the message treatment increase students’ time input devoted to English. However, both interventions also lead to a reduction in students’ expected grades (in terms of the grades they anticipate obtaining).*
 
 I had wrote serval simple work on NBA and labor market, some are for course work.
 
